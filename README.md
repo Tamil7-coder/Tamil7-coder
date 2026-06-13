@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Tamil7-coder&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
@@ -70,27 +70,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,flutter,firebase" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-### 📰 AI News Aggregator
-Cross-platform application that aggregates and personalizes news using modern technologies.
-
-### 🛒 Digital Marketplace
-E-commerce platform with authentication, product management, and order tracking.
-
-### 📝 Online Examination System
-Web-based examination platform developed for educational institutions.
-
-### 🌱 Smart Irrigation System
-IoT solution using NodeMCU ESP8266 and soil moisture sensors for automated irrigation.
-
-### 🎨 Earthen Aura
-Creative clay miniature keychain business with a digital product catalog.
-
----
 
 ## 📊 GitHub Analytics
 
