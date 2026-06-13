@@ -1,16 +1,124 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Tamil Arasi</h1>
 
-<!--
-**Tamil7-coder/Tamil7-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 M.Sc. Computer Science Student | Java Full Stack Developer | Database Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Full+Stack+Developer;Database+Developer;Tech+Explorer;Open+Source+Learner;Building+Real-World+Projects" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## 🌟 About Me
+
+🎓 Pursuing **M.Sc. Computer Science**
+
+💻 Passionate about **Software Development, Databases, Cloud Computing, and AI**
+
+🌱 Currently Learning:
+- Java Full Stack Development
+- PostgreSQL
+- Spring Boot
+- Cloud Technologies
+- System Design
+
+🚀 Building:
+- AI News Aggregator App
+- Digital Marketplace Platform
+- Online Examination System
+- IoT Smart Irrigation System
+
+🎯 2026 Goals:
+- Contribute to Open Source
+- Become a Java Full Stack Developer
+- Master Database Development
+- Build Production-Ready Applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript" />
+</p>
+
+### Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
+</p>
+
+### Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,nodejs,spring" />
+</p>
+
+### Database Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,flutter,firebase" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📰 AI News Aggregator
+Cross-platform application that aggregates and personalizes news using modern technologies.
+
+### 🛒 Digital Marketplace
+E-commerce platform with authentication, product management, and order tracking.
+
+### 📝 Online Examination System
+Web-based examination platform developed for educational institutions.
+
+### 🌱 Smart Irrigation System
+IoT solution using NodeMCU ESP8266 and soil moisture sensors for automated irrigation.
+
+### 🎨 Earthen Aura
+Creative clay miniature keychain business with a digital product catalog.
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📚 Currently Exploring
+
+```text
+☕ Java Full Stack Development
+🗄️ PostgreSQL & Database Optimization
+☁️ Cloud Computing
+🤖 Artificial Intelligence
+📱 Flutter App Development
+🌐 Modern Web Technologies
